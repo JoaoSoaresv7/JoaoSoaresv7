@@ -20,8 +20,6 @@ Estudante de Engenharia de Software no **UDF** e Analista de Dados na **UCOB**, 
 ---
 
 
----
-
 ## 📊 GitHub Stats
 
 <div align="center">
