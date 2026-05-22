@@ -19,23 +19,6 @@ Estudante de Engenharia de Software no **UDF** e Analista de Dados na **UCOB**, 
 
 ---
 
-## 📌 Projetos em Destaque
-
-### 🍕 Sistema de Pedidos de Pizza
-Sistema web completo para pizzaria com duas interfaces: página do cliente para pedidos e painel do funcionário para gerenciamento.
-`Python` `Django` `JavaScript` `SQLite`
-
----
-
-### 🧠 MindSync — Plataforma de Saúde Mental
-Plataforma de apoio à saúde mental desenvolvida em equipe, com foco em acessibilidade e acolhimento. Aborda ansiedade, depressão, estresse e autoestima.
-`Python` `React` `JavaScript` `HTML` `CSS`
-
----
-
-### 👥 Sistema de Cadastro de Clientes
-Aplicação web com cadastro e pesquisa de clientes, com lógica condicional e conexão a banco de dados.
-`PHP` `MySQL` `HTML`
 
 ---
 
