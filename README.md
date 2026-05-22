@@ -12,11 +12,11 @@
 
 ### 🙋‍♂️ About Me
 
-- 🎓 Software Engineering student at **UDF**, Brasília
-- 📊 Data Analysis Assistant at **UCOB** — SQL, Python & Power BI
+- 🎓 Software Engineering 
+- 📊 Data Analysis SQL, Python & Power BI
 - 🤖 Passionate about **process automation** and **data-driven decisions**
 - 🌱 Currently deepening skills in **Django**, **Pandas** and **data pipelines**
-- 📍 Brasília, DF — open to remote & hybrid opportunities
+- 📍 Brasília, DF 
 
 ---
 
@@ -29,27 +29,12 @@
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+
 
 ---
 
-### 📌 Featured Projects
-
-| Project | Description | Stack |
-|--------|-------------|-------|
-| 🍕 **Pizza Order System** | Full-stack web app for a pizzaria with customer & employee interfaces | `Python` `Django` `JS` `SQLite` |
-| 🧠 **MindSync** | Mental health support platform built with a Software Engineering team | `Python` `React` `JS` `HTML` `CSS` |
-| 👥 **Customer Registration System** | Web app with conditional logic for customer registration & search | `PHP` `MySQL` `HTML` |
-
----
 
 ### 📊 GitHub Stats
-
-<div align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=JoaoSoaresv7&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&cache_seconds=1800"/>
-  &nbsp;
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoSoaresv7&layout=compact&langs_count=7&theme=tokyonight&hide_border=true&cache_seconds=1800"/>
-</div>
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=JoaoSoaresv7&theme=tokyonight&hide_border=true" />
