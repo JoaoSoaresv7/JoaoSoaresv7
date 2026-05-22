@@ -1,12 +1,26 @@
-# Olá, eu sou o João Vítor 👋
+<div align="center">
 
-### Data Analyst | Process Automation | Software Engineering
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=3000&pause=1000&color=1D9E75&center=true&vCenter=true&width=600&lines=Hey%2C+I'm+Jo%C3%A3o+V%C3%ADtor+%F0%9F%91%8B;Data+Analyst+%7C+Python+%7C+SQL;Process+Automation+Enthusiast;Always+learning+%F0%9F%9A%80" alt="Typing SVG" />
 
-Estudante de Engenharia de Software no **UDF** e Analista de Dados na **UCOB**, onde trabalho com tratamento de dados, automação de processos e criação de dashboards. Tenho foco em transformar dados brutos em informações úteis para a tomada de decisão.
+<br/>
+
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="380" alt="coding gif"/>
+
+</div>
 
 ---
 
-## 🛠️ Tech Stack
+### 🙋‍♂️ About Me
+
+- 🎓 Software Engineering student at **UDF**, Brasília
+- 📊 Data Analysis Assistant at **UCOB** — SQL, Python & Power BI
+- 🤖 Passionate about **process automation** and **data-driven decisions**
+- 🌱 Currently deepening skills in **Django**, **Pandas** and **data pipelines**
+- 📍 Brasília, DF — open to remote & hybrid opportunities
+
+---
+
+### 🛠️ Tech Stack
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
@@ -15,26 +29,46 @@ Estudante de Engenharia de Software no **UDF** e Analista de Dados na **UCOB**, 
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
 ---
 
+### 📌 Featured Projects
 
-## 📊 GitHub Stats
+| Project | Description | Stack |
+|--------|-------------|-------|
+| 🍕 **Pizza Order System** | Full-stack web app for a pizzaria with customer & employee interfaces | `Python` `Django` `JS` `SQLite` |
+| 🧠 **MindSync** | Mental health support platform built with a Software Engineering team | `Python` `React` `JS` `HTML` `CSS` |
+| 👥 **Customer Registration System** | Web app with conditional logic for customer registration & search | `PHP` `MySQL` `HTML` |
+
+---
+
+### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=JoaoSoaresv7&theme=tokyonight&hide_border=true&locale=pt_BR" />
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=JoaoSoaresv7&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&cache_seconds=1800"/>
+  &nbsp;
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoSoaresv7&layout=compact&langs_count=7&theme=tokyonight&hide_border=true&cache_seconds=1800"/>
+</div>
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=JoaoSoaresv7&theme=tokyonight&hide_border=true" />
 </div>
 
 ---
 
-## 📫 Contato
+### 📫 Contact
+
+<div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://br.linkedin.com/in/joaovitorsoares077)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:soaresjoaov7@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/JoaoSoaresv7)
+
+</div>
 
 ---
 
 <div align="center">
-  <sub>Brasília, DF · Aberto a oportunidades remotas e híbridas</sub>
+  <img src="https://komarev.com/ghpvc/?username=JoaoSoaresv7&color=1D9E75&style=flat-square&label=Profile+Views" alt="profile views"/>
 </div>
